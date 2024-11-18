@@ -41,7 +41,7 @@ li {
   color: white;
   text-align: center;
  
- 
+ justify-content: space-evenly;
 }
 
 li:hover {
